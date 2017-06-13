@@ -27,3 +27,4 @@ console.log(people); //He gone......
 
 // Where is William??
 console.log(people.indexOf("William!"));
+console.log(people.slice(4,5));
